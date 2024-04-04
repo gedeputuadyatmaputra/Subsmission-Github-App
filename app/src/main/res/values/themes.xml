@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GedeputuSubsmission" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/Primary</item>
+        <item name="colorPrimaryVariant">@color/Accent</item>
+        <item name="colorOnPrimary">@color/Accent</item>
+
+        <item name="colorSecondary">@color/Accent</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/Accent</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
+    </style>
+    <style name="myTheme.ActionBar.Text" parent="Widget.AppCompat.ActionBar.Solid">
+        <item name="android:textColor">@color/Accent</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="splashtheme" parent="Theme.Material3.DayNight.NoActionBar"/>
+    <style name="Theme.GedeputuSubsmission" parent="Base.Theme.GedeputuSubsmission" />
+</resources>

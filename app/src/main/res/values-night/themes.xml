@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GedeputuSubsmission" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/Primary</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <item name="colorSecondary">@color/tabscolor</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/Accent</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+    <style name="splashtheme" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>

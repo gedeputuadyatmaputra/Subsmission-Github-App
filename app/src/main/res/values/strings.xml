@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+
+    <string name="following_count">%d</string>
+    <string name="followers_count">%d</string>
+    <string name="repo_count">%d</string>
+
+    <string name="searchtext">Search Username</string>
+    <string name="name">Gede Putu Adyatma Putra</string>
+    <string name="username">gedeputu26</string>
+    <string name="bio">Bio</string>
+
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+    <string name="ChangeMode">Change Theme</string>
+    <string name="btntheme">Turn On Night Mode</string>
+    <string name="setting">Setting Theme</string>
+    <string name="Favoriteinfo">Favorite User</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="default_query">Mojo</string>
+    <string name="dark_mode">Turn On Dark Mode</string>
+    <string name="light_mode">Turn Off Dark Mode</string>
+    <string name="settings">Settings Theme</string>
+</resources>

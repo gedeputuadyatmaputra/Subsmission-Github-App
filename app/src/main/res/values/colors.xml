@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkblue">#0000b3</color>
+    <color name="orange">#E67E22</color>
+    <color name="icon_detail">#FFFFFFFF</color>
+    <color name="icon_text">#FFFFFFFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="divider_color">#FFFFFFFF</color>
+
+    <color name="tabscolor">#607D8B</color>
+    <color name="tabstext">#FFFFFFFF</color>
+    <color name="colorIconMenu">#FF000000</color>
+    <color name="cardcolor">#676768</color>
+
+    <color name="Primary">#9c9c9c</color>
+    <color name="Accent">#000000</color>
+
+    <style name="ProgressBarStyle">
+        <item name="colorAccent">@color/black</item>
+    </style>
+</resources>
